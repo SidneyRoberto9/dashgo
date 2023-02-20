@@ -36,7 +36,7 @@ export function Header() {
         px={'8'}
         ml={'6'}
         maxW={400}
-        alignSelf={'center'}
+        alignItems={'center'}
         color={'gray.200'}
         position={'relative'}
         bg={'gray.800'}
